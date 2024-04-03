@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 int main() {
-/*Cómo escribir en C las tildes*/
-    printf("%c de %crbol\n",160,160); //á
-    printf("%c de %clite\n",130,130); //é
-    printf("%c aparece en pr%cstino\n",161,161); //í
-    printf("%c aparece en cami%cn\n",162,162); //ó
-    printf("%c aparece en t%c\n\n",163,163); //ú
+/*CÃ³mo escribir en C las tildes*/
+    printf("%c de %crbol\n",160,160); //Ã¡
+    printf("%c de %clite\n",130,130); //Ã©
+    printf("%c aparece en pr%cstino\n",161,161); //Ã­
+    printf("%c aparece en cami%cn\n",162,162); //Ã³
+    printf("%c aparece en t%c\n\n",163,163); //Ãº
 
     printf("%c de %crbol\n"
            "%c de %clite\n"
