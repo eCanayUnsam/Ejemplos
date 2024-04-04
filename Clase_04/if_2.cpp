@@ -20,5 +20,7 @@ else {
         num=num-1;
      }
 
+printf("El numero quedo %d\n",num);
+
 return 0;
 }

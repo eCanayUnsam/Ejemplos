@@ -1,0 +1,8 @@
+a = lado mayor
+b = lado menor
+
+Area =( b * raiz (a2 - (b2/4))/2
+
+angulo igual = cos-1 ((b/2) / a)
+
+otro angulo = 180 - angulo igual * 2 
